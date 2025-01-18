@@ -10,7 +10,6 @@
   <h3><b>Profile Visitor Count</b></h3>
 </div>
     
-<!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/JustCarsa/count.svg" />  
 </p>
